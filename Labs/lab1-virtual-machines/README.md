@@ -19,7 +19,7 @@ The objective of this lab is to configure, deploy, and familiarize myself with t
 3. Opened a terminal emulator and executed the network interface command `ip a` to map the operational network layers.
 
 > **📸 Verification Screenshot 1: Active Terminal and IP Address Mapping**
-> ![Terminal Verification Status](./screenshots/01_ip_address_nat.jpg)
+> ![Terminal Verification Status](./screenshots/IP%20address(NAT).png)
 
 ### Part 2: Verifying Web Connectivity
 
@@ -27,7 +27,7 @@ The objective of this lab is to configure, deploy, and familiarize myself with t
 2. Successfully navigated to an external web index to verify that the VirtualBox NAT network configurations are accurately translating packets to the internet.
 
 > **📸 Verification Screenshot 2: Web Browser Connectivity Check**
-> ![Web Browser Connection Status](./screenshots/02_firefox_connectivity.png)
+> ![Web Browser Connection Status](./screenshots/Working%20firefox%20%20inside%20cyberops%20VM.png)
 
 ---
 
@@ -46,4 +46,3 @@ The objective of this lab is to configure, deploy, and familiarize myself with t
 ## 4. Laboratory Reflection
 
 The installation and initialization of the CyberOps Workstation environment were completed successfully. By investigating the network interfaces via the command line interface and verifying external browsing capabilities, I confirmed that the hypervisor network translation layers are functioning as expected. The environment is now fully stabilized and prepared for localized traffic capture and packet inspection labs.
-
