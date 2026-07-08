@@ -44,7 +44,7 @@ physical MAC addressing and protocol type flags—while observing the operationa
 
 > \*\*📸 Verification Screenshot 1: Isolated ARP Traffic Stream\*\*
 
-> !\[Wireshark ARP Capture](./screenshots/01\_wireshark\_arp\_capture.png)
+> !\[Wireshark ARP Capture](./screenshots/01_wireshark_arp_capture.png)
 
 
 
@@ -60,7 +60,7 @@ physical MAC addressing and protocol type flags—while observing the operationa
 
 > \*\*📸 Verification Screenshot 2: Ethernet II Header Field Expansion\*\*
 
-> !\[Ethernet II Frame Header Details](./screenshots/02\_ethernet\_frame\_details.png)
+> !\[Ethernet II Frame Header Details](./screenshots/02_ethernet_frame_details.png)
 
 
 
