@@ -100,7 +100,7 @@ The authentication frame containing the `POST /doLogin` request was then isolate
 | **Username (`uid`)** | `Admin` | Fully visible in cleartext to network eavesdroppers. |
 | **Password (`passw`)** | `Admin` | Fully visible in cleartext to network eavesdroppers. |
 
-**📸 Verification Asset 1:** `./screenshots/01_http_login_capture.png`
+**📸 Verification Asset 1:** ![Verification Asset 1](./screenshots/01_http_login_capture.png)
 
 ---
 
@@ -143,7 +143,7 @@ tcp.port == 443
 | **Content Type** | Application Data (23) | Transmits protected HTTP headers and form payloads. |
 | **Payload Format** | Ciphertext / Hex Stream | Protects sensitive credentials from unauthorized extraction. |
 
-**📸 Verification Asset 2:** `./screenshots/02_https_encrypted_data.png`
+**📸 Verification Asset 2:** ![Verification Asset 2](./screenshots/02_https_encrypted_data.png)
 
 ---
 
