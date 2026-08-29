@@ -30,7 +30,7 @@ The purpose of this portfolio is to capture execution evidence, packet captures,
 | **Lab 05** | Using Wireshark to Observe the TCP 3-Way Handshake | ✅ Completed | [View Lab](./Labs/lab5-wireshark-tcp-handshake/) |
 | **Lab 06** | Using Wireshark to Examine a UDP DNS Capture | ✅ Completed | [View Lab](./Labs/lab6-wireshark-udp-dns/) |
 | **Lab 07** | Using Wireshark to Examine TCP and UDP Captures (FTP & TFTP Protocols) | ✅ Completed | [View Lab](./Labs/lab7-wireshark-tcp-udp/) |
-| **Lab 08** | Using Wireshark to Examine HTTP and HTTPS Traffic | ⏳ In Progress | [View Lab](./Labs/lab8-wireshark-http-https/) |
+| **Lab 08** | Using Wireshark to Examine HTTP and HTTPS Traffic | ✅ Completed | [View Lab](./Labs/lab8-wireshark-http-https/) |
 
 *Status Indicators: 📂 Planned | ⏳ In Progress | ✅ Completed*
 
